@@ -1,0 +1,67 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento del Sistema Experto para colocación de pisos",
+  "entries": [
+    {
+      "name": "Colocación de Porcellanato",
+      "description": "El Porcellanato es un tipo de revestimiento cerámico de alta calidad, conocido por su resistencia, durabilidad y acabado elegante. Fabricado a partir de arcillas y otros materiales finos, se caracteriza por su baja porosidad, lo que lo hace resistente a la humedad y fácil de limpiar. Es ideal para pisos y paredes en interiores y exteriores, disponible en una amplia variedad de colores, texturas y tamaños.",
+      "props": [
+        "¿Colocación de piso nuevo completo?",
+        "¿Requiere tipo de piso de alto tránsito?",
+        "¿Calcular escuadra?"
+      ]
+    },
+    {
+      "name": "Colocación de Porcellanato Líquido Autonivelante",
+      "description": "El porcelanato líquido es un revestimiento autonivelante que se aplica en forma líquida sobre pisos, creando una superficie continua, lisa y brillante. Se destaca por su alta resistencia, durabilidad y fácil mantenimiento, además de ofrecer un acabado sin juntas y personalizable en cuanto a colores y diseños. Es ideal para espacios modernos y áreas de alto tráfico, tanto en interiores como en exteriores.",
+      "props": [
+        "¿Colocación de piso nuevo completo?",
+        "¿Requiere tipo de piso de alto tránsito?"
+      ]
+    },
+    {
+      "name": "Colocación de Cerámico",
+      "description": "El piso cerámico es un revestimiento hecho a partir de arcilla y otros materiales naturales, horneado a altas temperaturas. Es duradero, resistente al agua y al desgaste, y fácil de limpiar, lo que lo hace ideal para áreas de alto tránsito como cocinas y baños. Está disponible en una amplia variedad de diseños, colores y texturas, y suele ser más económico que otros revestimientos, como el porcelanato.",
+      "props": [
+        "¿Colocación de piso nuevo completo?",
+        "¿Requiere tipo de piso de alto tránsito?",
+        "¿Requiere tipo de piso standar?",
+        "¿Tomar escuadra?"
+      ]
+    },
+    {
+      "name": "Colocación de Microcemento",
+      "description": "El microcemento es un revestimiento continuo y decorativo a base de cemento, polímeros y pigmentos, que se aplica en capas finas sobre diferentes superficies como pisos, paredes y muebles. Ofrece un acabado moderno y minimalista sin juntas, es altamente resistente al desgaste, y tiene un mantenimiento sencillo. Además, su versatilidad permite aplicarlo en interiores y exteriores, siendo popular en diseños contemporáneos.",
+      "props": [
+        "¿Reparación de sectores?",
+        "¿Quitar piso existente?"
+      ]
+    },
+    {
+      "name": "Colocación de Porcellanato por encima de piso existente",
+      "description": "El Porcellanato es un tipo de revestimiento cerámico de alta calidad, conocido por su resistencia, durabilidad y acabado elegante. Se coloca encima de un piso cerámico existente con pegamento especial para el mismo.",
+      "props": [
+        "¿Reparación de sectores?"
+      ]
+    },
+    {
+      "name": "Colocación de Piso Flotante Vinílico",
+      "description": "El piso flotante vinílico es un revestimiento flexible compuesto de capas de PVC, diseñado para imitar materiales como la madera o la piedra. Es resistente al agua, fácil de instalar gracias a su sistema de encaje sin adhesivos, y cómodo bajo los pies. Además, ofrece buena durabilidad, es fácil de mantener y es ideal para áreas residenciales y comerciales con alto tránsito, como cocinas, baños y salas.",
+      "props": [
+        "¿Colocación de piso nuevo completo?",
+        "¿Requiere tipo de piso de alto tránsito?",
+        "¿Requiere tipo de piso standar?",
+        "¿Colocar piso rígido?"
+      ]
+    },
+    {
+      "name": "Colocación de Alfombra",
+      "description": "La alfombra es un revestimiento textil suave y acolchonado que cubre el piso, proporcionando confort, aislamiento térmico y acústico. Está disponible en una variedad de materiales como lana, nylon o poliéster, y en diferentes estilos, colores y texturas. Es ideal para ambientes interiores como dormitorios y salas de estar, aunque requiere mayor mantenimiento en comparación con otros tipos de piso, ya que acumula polvo y manchas con facilidad.",
+      "props": [
+        "¿Colocación de piso nuevo completo?",
+        "¿Requiere tipo de piso de alto tránsito?",
+        "¿Requiere tipo de piso standar?"
+      ]
+    }
+  ]
+}
